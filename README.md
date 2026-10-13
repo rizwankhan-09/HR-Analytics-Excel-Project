@@ -5,6 +5,9 @@ This project analyzes employee workforce data using Microsoft Excel to identify 
 
 The goal is to transform raw employee data into meaningful insights that can support HR reporting and workforce-related decision-making.
 
+## Dashboard Preview
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+
 ## Project Objectives
 - Clean and standardize employee data.
 - Analyze employee headcount across departments and locations.
